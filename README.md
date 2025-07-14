@@ -33,7 +33,8 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Spring Framework](https://img.shields.io/badge/-Spring_Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ---
 
 ## 📊 GitHub Stats
