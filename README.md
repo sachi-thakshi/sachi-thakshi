@@ -47,10 +47,13 @@
 <div align="center">
 
 <!-- Main Technologies -->
-<img src="https://skillicons.dev/icons?i=java,javascript,html,css,mysql,spring,git,github&theme=dark&perline=4" />
+<img src="https://skillicons.dev/icons?i=react,typescript,tailwind,java,javascript,html,css,mysql,spring,git,github&theme=dark&perline=5" />
 
 <!-- Additional Tools and Frameworks -->
 <br><br>
+<img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=000000" />
+<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=000000" />
 <img src="https://img.shields.io/badge/-Java-FF6B6B?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=000000" />
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000000" />
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000" />
