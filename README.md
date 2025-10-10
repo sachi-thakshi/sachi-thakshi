@@ -46,6 +46,8 @@
 
 <div align="center"> 
 
+<!-- Main Technologies -->
+<!-- Frontend -->
 <h3>🚀 Frontend</h3>
 <img src="https://skillicons.dev/icons?i=react,typescript,tailwind,javascript,html,css&theme=dark&perline=6" />
 <br><br>
@@ -73,12 +75,13 @@
 <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000000" />
 <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=000000" />
 
-<!-- Tools -->
-<h3>🛠️ Tools & Version Control</h3>
-<img src="https://skillicons.dev/icons?i=git,github&theme=dark&perline=6" />
+<!-- Tools & Design -->
+<h3>🛠️ Tools & Design</h3>
+<img src="https://skillicons.dev/icons?i=git,github,figma&theme=dark&perline=6" />
 <br><br>
 <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=000000" />
 <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=000000" />
 
 </div>
 
