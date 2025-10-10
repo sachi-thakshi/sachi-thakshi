@@ -44,24 +44,41 @@
 
 ## 🛠️ Tech Arsenal
 
-<div align="center">
+<div align="center"> 
 
-<!-- Main Technologies -->
-<img src="https://skillicons.dev/icons?i=react,typescript,tailwind,java,javascript,html,css,mysql,spring,git,github&theme=dark&perline=5" />
-
-<!-- Additional Tools and Frameworks -->
+<h3>🚀 Frontend</h3>
+<img src="https://skillicons.dev/icons?i=react,typescript,tailwind,javascript,html,css&theme=dark&perline=6" />
 <br><br>
 <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=000000" />
 <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=000000" />
 <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=000000" />
-<img src="https://img.shields.io/badge/-Java-FF6B6B?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=000000" />
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000000" />
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000" />
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=000000" />
-<img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000000" />
+
+<!-- Backend -->
+<h3>⚙️ Backend</h3>
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,python&theme=dark&perline=6" />
+<br><br>
+<img src="https://img.shields.io/badge/-Java-FF6B6B?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=000000" />
 <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white&labelColor=000000" />
 <img src="https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000" />
+
+<!-- Databases -->
+<h3>🗄️ Databases</h3>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark&perline=6" />
+<br><br>
+<img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=000000" />
+
+<!-- Tools -->
+<h3>🛠️ Tools & Version Control</h3>
+<img src="https://skillicons.dev/icons?i=git,github&theme=dark&perline=6" />
+<br><br>
 <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
 
 </div>
 
