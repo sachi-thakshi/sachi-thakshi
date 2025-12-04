@@ -111,18 +111,6 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" />
 </div>
 
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=sachi-thakshi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" />
-  
-</div>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## 📈 Contribution Activity
 
 <div align="center">
