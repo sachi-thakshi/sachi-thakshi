@@ -30,7 +30,7 @@
 <div align="left">
 
 - 🎓 I'm **Sachini Imbulagoda**, a passionate **Software Engineer** from Sri Lanka 🇱🇰
-- 💡 **Tech Stack**: `Java` • `JavaScript` • `HTML` • `CSS` • `MySQL` • `Spring Boot`
+- 💡 **Tech Stack**: `Java` • `JavaScript` • `HTML` • `CSS` • `MySQL` • `Spring Boot` • `React` • `MongoDB` • `TypeScript`
 - 🌟 **Focus**: Building elegant, responsive web applications with clean code
 - 🎯 **Goal**: Becoming a Full-Stack Developer and contributing to open source
 - 💻 **Current Project**: Working on innovative web solutions
