@@ -35,7 +35,7 @@
 - 🎯 **Goal**: Becoming a Full-Stack Developer and contributing to open source
 - 💻 **Current Project**: Working on innovative web solutions
 - 📫 **Contact**: **sachiniimbulagoda@icloud.com**
-- 🌐 **Portfolio**: [Live Portfolio](https://my-portfolio-five-iota-57.vercel.app/) ✨
+- 🌐 **Portfolio**: [Live Portfolio](https://sachini-imbulagoda.vercel.app/) ✨
 
 </div>
 
